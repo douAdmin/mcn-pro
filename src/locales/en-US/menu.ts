@@ -1,0 +1,23 @@
+export default {
+  'menu.dashboard': 'Dashboard',
+  'menu.dashboard.workbench': 'Workbench',
+  'menu.task': 'Task',
+  'menu.task.must-see': 'Must See',
+  'menu.task.apply': 'Task Registration',
+  'menu.task.work-report': 'Work Report',
+  'menu.statistics': 'Statistics',
+  'menu.statistics.like': 'Like Data',
+  'menu.statistics.settlement': 'Settlement Data',
+  'menu.statistics.apply': 'Registration Data',
+  'menu.statistics.person': 'Card Man',
+  'menu.personal': 'Personal Page',
+  'menu.personal.center': 'Personal Center',
+  'menu.personal.setting': 'Personal Settings',
+  'menu.personal.setting.base': 'Basic Settings',
+  'menu.personal.setting.account': 'Important Account',
+  'menu.personal.setting.security': 'Security Settings',
+  'menu.register': 'Accounts',
+  'menu.register.manage-account': 'Manage Accounts',
+  'menu.login': 'Log In',
+  'menu.welcome': 'Welcome'
+};

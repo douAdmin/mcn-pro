@@ -1,0 +1,23 @@
+export default {
+  'menu.dashboard': '仪表盘',
+  'menu.dashboard.workbench': '工作台',
+  'menu.task': '宣发任务',
+  'menu.task.must-see': '做任务必看',
+  'menu.task.apply': '任务报名',
+  'menu.task.work-report': '作品报备',
+  'menu.statistics': '数据统计',
+  'menu.statistics.like': '点赞数据',
+  'menu.statistics.settlement': '结算数据',
+  'menu.statistics.apply': '报名数据',
+  'menu.statistics.person': '卡牌人',
+  'menu.personal': '个人页',
+  'menu.personal.center': '个人中心',
+  'menu.personal.setting': '个人设置',
+  'menu.personal.setting.base': '基本设置',
+  'menu.personal.setting.account': '重要账号',
+  'menu.personal.setting.security': '安全设置',
+  'menu.register': '登记抖音快手账号',
+  'menu.register.manage-account': '管理我的所有账号',
+  'menu.login': '登录',
+  'menu.welcome': '欢迎页'
+};
