@@ -1,4 +1,4 @@
-import { ResponseError } from 'umi-request'
+import type { ResponseError } from 'umi-request'
 import { codeMessage } from '@/const'
 import { notification } from 'antd'
 
